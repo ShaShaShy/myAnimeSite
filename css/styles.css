@@ -1,6 +1,8 @@
 body{
 	font-family: 'Rubik', sans-serif;
 	height: 100vh;
+  background-color: #2d2a29;
+  background-image: linear-gradient(62deg, #2d2a29 0%, #332c19 100%);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -165,4 +167,3 @@ nav{
 .inputbox input:focus ~i {
   height: 44px;
 }
-
