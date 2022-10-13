@@ -1,0 +1,286 @@
+body{
+background: rgb(75,65,33);
+background: linear-gradient(0deg, rgba(75,65,33,1) 0%, rgba(20,29,29,1) 77%);
+}
+
+.nav{
+	padding: 2%;
+	font-family: 'Rubik', sans-serif;
+
+}
+
+.nav a{
+	color: #FFFfff;
+}
+
+.intro-1 h1{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    color: #Ffffff;
+    margin-top: 3%;
+}
+
+.myNavbar .dropdown-item{
+    color: #000000;
+}
+
+.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: 2.5%;
+}
+
+.item figcaption{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.card-1 {
+ color: white;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/Bleach.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 5%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+ text-align: center;
+}
+
+
+.card-1:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.card-2 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/ONE-PIECE.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 5%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-2:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.card-3 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/Chainsaw.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 5%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+.card-3:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+
+.card-4 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/Jujutsu.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 5%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-4:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.card-5 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/Spy.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 5%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-5:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.card-6 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/Bluelock.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 5%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-6:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.card-7 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/attack.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 6%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-7:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.caption {
+    display: inline-block;
+}
+.card-8 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/MHA.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 6%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-8:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+
+.card-9 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/MOB.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 6%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-9:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.card-10 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/Classroom.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 6%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-10:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.card-11 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/bofuri.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 6%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-11:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.card-12 {
+ color: #Ffffff;
+ text-align: center;
+ width: 266px;
+ height: 374px;
+ background-image:url(../images/Full.jpg);
+ background-size: cover;
+ transition: all 300ms;
+ margin: 6%;
+ border: 2px solid #ffffff;
+ display: inline-block;
+}
+
+
+.card-12:hover {
+ opacity: 0.8;
+ transform: scale(1.10);
+}
+
+.myList{
+    padding: 5%;
+    display: inline-block;
+    height: 100vh;
+}
+
+.myList li{
+    display: inline-block;
+}
+
+.myList li a{
+    text-decoration: none;
+
+}
